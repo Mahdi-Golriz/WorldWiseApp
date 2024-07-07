@@ -1,0 +1,28 @@
+{
+  "cities": [
+    {
+      "id": "a120",
+      "cityName": "Villafuerte",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2024-07-07T10:45:27.725Z",
+      "notes": "",
+      "position": {
+        "lat": "41.72213058512578",
+        "lng": "-4.306640625000001"
+      }
+    },
+    {
+      "id": "b229",
+      "cityName": "Fuente la Lancha",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2024-07-07T10:45:29.869Z",
+      "notes": "",
+      "position": {
+        "lat": "38.42777351132902",
+        "lng": "-5.053710937500001"
+      }
+    }
+  ]
+}
